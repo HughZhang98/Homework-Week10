@@ -5,7 +5,7 @@
   "height": 500,
   
   "data": {
-    "url": "../data/CoffeeAndCodeLT2018.csv"
+    "url": "https://raw.githubusercontent.com/HughZhang98/Homework-Week10/main/data/CoffeeAndCodeLT2018.csv"
   },
   "encoding": {
     "x":{"field":"CoffeeCupsPerDay","title":"Number of Cups"},
