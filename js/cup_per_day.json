@@ -22,7 +22,7 @@
     "bind": {
       "input": "range",
       "min": 1,
-      "max": 8,
+      "max": 7,
       "step": 1
     }
   }],
